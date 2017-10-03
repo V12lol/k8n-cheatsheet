@@ -1,4 +1,4 @@
-# Kubernetes Documents and YAML Configurations
+# Kubernetes Exxample Commands
 
 This project covers the notes provided in
 * [YouTube / Janakiram & Associates](https://www.youtube.com/watch?v=BadzJOlSn24) - Tips and Tricks of Using Kubectl, the Kubernetes CLI
